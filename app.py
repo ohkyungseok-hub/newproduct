@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 # Streamlit 앱 설정
-st.title("📂 엑셀 파일 변환기 - 상품 일괄 등록 양식")
+st.title("📂 엑셀 파일 변환기 - 오경석매직")
 
 # 파일 업로드 버튼
 uploaded_file = st.file_uploader("상품제안서 엑셀 파일을 업로드하세요", type=["xlsx"])
